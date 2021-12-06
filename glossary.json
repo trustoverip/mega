@@ -1,5 +1,5 @@
 {
-    "title": "MEGA Glossary",
+    "frame": "https://raw.githubusercontent.com/trustoverip/mega/main/.glossary-template.html",
     "sources": [
         { "wiki": "git@github.com:trustoverip/mega.git" }
     ]
